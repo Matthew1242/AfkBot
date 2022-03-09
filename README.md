@@ -1,0 +1,2 @@
+# AfkBot
+Bruh
